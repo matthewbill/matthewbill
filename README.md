@@ -5,7 +5,7 @@
 
 ## About Me
 
-I have been working in the tech industry for 15 years with a background in Software Engineering as a full stack developer working with Node.js, React and .Net along with various different data stores and messaging systems. I have designed and built large scale and big data solutions within AWS and GCP, as well as had experience leading DevOps and Data Science initiatives. I also happen to be certified in Agile Coaching and Scrum Mastery.
+I have been working in the tech industry for 15 years with a background in Software Engineering as a full stack developer working with Node.js, React and .Net along with various different data stores and messaging systems. I have designed and built large scale and big data solutions within AWS and GCP, as well as had experience leading DevOps and Data Science initiatives. I also happen to be certified in Agile Coaching and [Scrum Mastery]('https://www.scrumalliance.org/community/profile/mbill2').
 
 - 🌱 I’m currently learning all about web3, privacy orientated and distributed technologies.
 - 💞️ I’m looking to collaborate on open source projects.
