@@ -12,3 +12,5 @@ I have been working in the tech industry for 15 years with a background in Softw
 - 📫 You can get in touch with me through [LinkedIn](https://www.linkedin.com/in/matthewbill/).
 - 📖 I enjoy writing articles on [Medium](https://medium.com/@matthewdbill) and speaking at events.
 - 🎲 Fun Fact: I have been running D&D games for nearly 20 years now!
+
+Web3 Domain ([Unstoppable](https://unstoppabledomains.com/)): [matthewbill.crypto](matthewbill.crypto)
