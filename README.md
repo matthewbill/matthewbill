@@ -16,4 +16,9 @@ I have been working in the tech industry for 15 years with a background in Softw
 Web3 Domain ([Unstoppable](https://unstoppabledomains.com/)): [matthewbill.crypto](http://matthewbill.crypto)
 
 ## Preferred Stack
-<a data-theme="dark" data-layers="1,2,3,4" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/29a34baab6cc49788fc343ab0bd3fd"></a><script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
+
+Over the years I have worked with a lot of different tools, but these are my current preferred tech stacks.
+
+- Development: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/matthewdbill/development)
+- Data & Events: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/matthewdbill/data-and-events)
+- DevOps: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/matthewdbill/devops)
