@@ -14,3 +14,6 @@ I have been working in the tech industry for 15 years with a background in Softw
 - 🎲 Fun Fact: I have been running D&D games for nearly 20 years now!
 
 Web3 Domain ([Unstoppable](https://unstoppabledomains.com/)): [matthewbill.crypto](http://matthewbill.crypto)
+
+## Preferred Stack
+<a data-theme="dark" data-layers="1,2,3,4" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/29a34baab6cc49788fc343ab0bd3fd"></a><script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
