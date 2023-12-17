@@ -12,7 +12,7 @@ I have been working in the tech industry for 16+ years with a background in Soft
 - 💞️ I’m looking to collaborate on open source projects.
 - 📖 I enjoy writing articles on [Medium](https://medium.com/@matthewdbill) and speaking at events.
 - 🎲 My hobbies include:
-  - Tinkering with my [Homelab]('HOMELAB.md').
+  - Tinkering with my [Homelab](HOMELAB.md).
   - Playing tabletop roleplaying games. Fun Fact: I have been running D&D games for nearly 20 years now!
   - And learning all about finance, stocks and crypto.
 
