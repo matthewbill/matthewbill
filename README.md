@@ -10,7 +10,7 @@ I have been working in the tech industry for 16+ years with a background in Soft
 
 - 🌱 I’m currently learning all about web3, privacy orientated and distributed technologies.
 - 💞️ I’m looking to collaborate on open source projects.
-- 📖 I enjoy writing articles on [Medium](https://medium.com/@matthewdbill) and speaking at events.
+- 📖 I enjoy writing articles on [Medium](https://medium.com/@matthewdbill) ([Subscribe](https://matthewdbill.medium.com/subscribe)) and speaking at events.
 - 🎲 My hobbies include:
   - Tinkering with my [Homelab](HOMELAB.md).
   - Playing tabletop roleplaying games. Fun Fact: I have been running D&D games for nearly 20 years now!
