@@ -25,4 +25,4 @@ Over the years I have worked with a range of different tools and technologies, b
 
 ## 💬 Contact Me
 
-You can get in touch with me through [LinkedIn](https://www.linkedin.com/in/matthewbill/).
+You can get in touch with me through [X (Twitter)](https://twitter.com/matthewbill) or [LinkedIn](https://www.linkedin.com/in/matthewbill/).
