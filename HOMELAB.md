@@ -5,6 +5,8 @@ One of my favourite hobbies is tinkering with my Homelab and here is some of the
 ## 💻 Compute
 
 - [Proxmox](https://www.proxmox.com/) - OS for Virtualisation to run VMs, such as True NAS and Linux.
+- [Rancher](https://www.rancher.com/) - K8s install and management.
+- [ArgoCD](https://argo-cd.readthedocs.io/) - GitOps: auto pull deployments of k8s based on configurations in git repos.
 - [Portainer](https://www.portainer.io/) - Simple Docker UI & management.
 
 ## 🛜 Networking
