@@ -6,7 +6,7 @@ Web3 Domain ([Unstoppable](https://unstoppabledomains.com/)): [matthewbill.crypt
 
 ## About Me
 
-I have been working in the tech industry for 16+ years with a background in Software Engineering as a full stack developer working with Node.js, React and .Net along with various different data stores and messaging systems. I have designed and built large scale and big data solutions within AWS and GCP, as well as had experience leading DevOps and Data Science initiatives. I also happen to be certified in [Agile Coaching](https://www.icagile.com/credentials/f3bcae30-aaa1-4000-bcfe-f5881ae36015) and [Scrum Mastery](https://www.scrumalliance.org/community/profile/mbill2).
+I am a [Technology Leader](https://medium.com/@matthewdbill/the-four-pillars-of-engineering-management-ad4db0c8dab6), who has been working in the tech industry for 16+ years with a background in Software Engineering as a full stack developer working with Node.js, Next.js, React and .Net along with various different data stores and messaging systems. I have designed and built large scale and big data solutions within AWS and GCP, as well as had experience leading DevOps and Data Science initiatives. I also happen to be certified in [Agile Coaching](https://www.icagile.com/credentials/f3bcae30-aaa1-4000-bcfe-f5881ae36015) and [Scrum Mastery](https://www.scrumalliance.org/community/profile/mbill2).
 
 - 🌱 I’m currently learning all about web3, [privacy](https://medium.com/p/e855e01b8027) orientated and distributed technologies.
 - 💞️ I’m looking to collaborate on open source projects.
