@@ -10,7 +10,7 @@ I am a [Technology Leader](https://medium.com/@matthewdbill/the-four-pillars-of-
 
 - 🌱 I’m currently learning all about web3, [privacy](https://medium.com/p/e855e01b8027) orientated and distributed technologies.
 - 💞️ I’m looking to collaborate on open source projects.
-- 📖 I enjoy writing articles on [Medium](https://medium.com/@matthewdbill) ([Subscribe](https://matthewdbill.medium.com/subscribe)) and [Dev,to](https://dev.to/matthewbill), as well as speaking at events.
+- 📖 I enjoy writing articles on [Medium](https://medium.com/@matthewdbill) ([Subscribe](https://matthewdbill.medium.com/subscribe)) and [Dev.to](https://dev.to/matthewbill), as well as speaking at events.
 - 🎲 My hobbies include:
   - Web development (hobbie projects)
   - Tinkering with my [Homelab](HOMELAB.md).
