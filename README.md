@@ -9,11 +9,12 @@ Web3 Domain ([Unstoppable](https://unstoppabledomains.com/)): [matthewbill.crypt
 I am a [Technology Leader](https://medium.com/@matthewdbill/the-four-pillars-of-engineering-management-ad4db0c8dab6), who has been working in the tech industry for 16+ years with a background in Software Engineering as a full stack developer working with Node.js, Next.js, React and .Net along with various different data stores and messaging systems. I have designed and built large scale and big data solutions within AWS and GCP, as well as had experience leading DevOps and Data Science initiatives. I also happen to be certified in [Agile Coaching](https://www.icagile.com/credentials/f3bcae30-aaa1-4000-bcfe-f5881ae36015) and [Scrum Mastery](https://www.scrumalliance.org/community/profile/mbill2).
 
 - 🌱 I’m currently learning all about web3, [privacy](https://medium.com/p/e855e01b8027) orientated and distributed technologies.
-- 💞️ I’m looking to collaborate on open source projects.
+- 💞️ I’m looking to collaborate on open-source projects.
 - 📖 I enjoy writing articles on [Medium](https://medium.com/@matthewdbill) ([Subscribe](https://matthewdbill.medium.com/subscribe)) and [Dev.to](https://dev.to/matthewbill), as well as speaking at events.
 - 🎲 My hobbies include:
-  - Web development (hobbie projects)
+  - Full stack web development (hobby projects)
   - Tinkering with my [Homelab](HOMELAB.md).
+  - Prompt engineering and gen AI.
   - Playing tabletop roleplaying games. Fun Fact: I have been running D&D games for nearly 20 years now!
   - And learning all about finance, stocks, and crypto.
 
