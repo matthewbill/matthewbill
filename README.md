@@ -12,10 +12,11 @@ I am a [Technology Leader](https://medium.com/@matthewdbill/the-four-pillars-of-
 - 💞️ I’m looking to collaborate on open-source projects.
 - 📖 I enjoy writing articles on [Medium](https://medium.com/@matthewdbill) ([Subscribe](https://matthewdbill.medium.com/subscribe)) and [Dev.to](https://dev.to/matthewbill), as well as speaking at events.
 - 🎲 My hobbies include:
-  - Full stack web development (hobby projects)
+  - Full-stack web development (hobby projects).
   - Tinkering with my [Homelab](HOMELAB.md).
   - Prompt engineering and gen AI.
   - Playing tabletop roleplaying games. Fun Fact: I have been running D&D games for nearly 20 years now!
+  - Terraforming my garden.
   - And learning all about finance, stocks, and crypto.
 
 ## 🛠️ Preferred Stack
@@ -24,6 +25,11 @@ Over the years I have worked with a range of different tools and technologies, b
 - **Development**: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/matthewdbill/development)
 - Data & Events: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/matthewdbill/data-and-events)
 - DevOps: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/matthewdbill/devops)
+
+### StackLens
+
+[Stacklens](https://stacklens.vercel.app/) is a little app I created to keep track of my FE stack and the various versions:
+https://stacklens.vercel.app/
 
 ## 💬 Contact Me
 
