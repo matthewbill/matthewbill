@@ -1,16 +1,22 @@
 # 🧪 Homelab
 
-One of my favourite hobbies is tinkering with my Homelab and here is some of the fun tech I am currently using:
+One of my favourite hobbies is tinkering with my Homelab, and here is some of the fun tech I am currently using:
 
-## 💻 Compute
+## 💻 Hardware
 
-- [Proxmox](https://www.proxmox.com/) - OS for Virtualisation to run VMs, such as True NAS and Linux.
+- HPE ProLiant Servers (refurbished)
+- StarTech - Server Rack
+
+## ⚙️ Compute
+
+- [Proxmox](https://www.proxmox.com/) - OS for Virtualisation to run VMs, such as True NAS and Debian Linux.
 - [Rancher](https://www.rancher.com/) - K8s install and management.
 - [ArgoCD](https://argo-cd.readthedocs.io/) - GitOps: auto pull deployments of k8s based on configurations in git repos.
 - [Portainer](https://www.portainer.io/) - Simple Docker UI & management.
 
 ## 🛜 Networking
 
+- [unify](https://www.ui.com/) - Router, firewall, VPN, AP (simpler setup, but less configurable than pfsense/openwrt)
 - [pfsense](https://www.pfsense.org/) - Router, firewall, and VPN.
 - [OpenWrt](https://openwrt.org/) - Wireless AP that can be flashed onto existing router/access point hardware.
 - [Nginx Proxy Manager](https://nginxproxymanager.com/) - UI for Nginx X (reverse proxy) with built in [let's encrypt](https://letsencrypt.org/) certification for SSL/HTTPS.
@@ -27,6 +33,7 @@ One of my favourite hobbies is tinkering with my Homelab and here is some of the
 - [Home Assistant](https://www.home-assistant.io/) - For managing all smart devices.
 - [Hue](https://www.philips-hue.com/') - Smart lighting & smart plugs ([Hue Code](https://github.com/matthewbill/hue-code)).
 - [Sonos](https://www.sonos.com/) - Synced sound system across the house.
+- Zigbee Hub (SMLIGHT SLZB-06 Zigbee LAN POE Coordinator - Zigbee2MQTT, Home Assistant, ZHA) - Used for Zigbee devices
 
 ## 📂 File Management
 
