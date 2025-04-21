@@ -37,7 +37,7 @@ One of my favourite hobbies is tinkering with my Homelab, and here is some of th
 
 ## 📂 File Management
 
-- [True NAS](https://www.truenas.com/) - NAS OS that can be hosted wherever you like.
+- [True NAS](https://www.truenas.com/) - NAS OS that can be hosted wherever you like. Can also run containers through K8s.
 - [Calibre Web](https://github.com/janeczku/calibre-web) - Web UI for Calibre. For viewing PDFs and ebooks from anywhere without having to store them locally.
 - [Syncthing](https://syncthing.net/) - For syncing files, such as backups between servers.
 
