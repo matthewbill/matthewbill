@@ -26,10 +26,16 @@ Over the years I have worked with a range of different tools and technologies, b
 - Data & Events: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/matthewdbill/data-and-events)
 - DevOps: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/matthewdbill/devops)
 
+## Projects
+Some of the current projects I am working on:
+
 ### StackLens
 
-[Stacklens](https://stacklens.vercel.app/) is a little app I created to keep track of my FE stack and the various versions:
-https://stacklens.vercel.app/
+[Stack Lens](https://stacklens.fe26labs.com/) is an app to keep track of my FE stack and the various versions.
+
+### Role Radar
+
+[Role Radar](https://roleradar.fe26labs.com/) allows you to define job roles and get alignment on the blend of skills you are looking for.
 
 ## 💬 Contact Me
 
