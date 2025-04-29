@@ -39,4 +39,4 @@ Some of the current projects I am working on:
 
 ## 💬 Contact Me
 
-You can get in touch with me through [X (Twitter)](https://twitter.com/matthewbill) or [LinkedIn](https://www.linkedin.com/in/matthewbill/).
+You can get in touch with me through [X](https://x.com/matthewbill) or [LinkedIn](https://www.linkedin.com/in/matthewbill/).
