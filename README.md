@@ -26,6 +26,10 @@ Over the years I have worked with a range of different tools and technologies, b
 - Data & Events: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/matthewdbill/data-and-events)
 - DevOps: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/matthewdbill/devops)
 
+## Architecture
+
+I enjoy designing systems and architecture. Check out the [core principles I follow](https://dev.to/matthewbill/architectural-principles-for-startups-scale-ups-g31).
+
 ## Projects
 Some of the current projects I am working on:
 
