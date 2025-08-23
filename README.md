@@ -35,7 +35,7 @@ Some of the current projects I am working on:
 
 ### StackLens
 
-[Stack Lens](https://stacklens.fe26labs.com/) is an app to keep track of my FE stack and the various versions.
+[Stack Lens](https://stacklens.fe26labs.com/) is an app to keep track of my FE stack and the various versions. [This is my FE tech stack hosted on StackLens]('https://stacklens.fe26labs.com/').
 
 ### Role Radar
 
