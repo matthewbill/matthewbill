@@ -28,7 +28,7 @@ Over the years I have worked with a range of different tools and technologies, b
 
 ## Architecture
 
-I enjoy designing systems and architecture. Check out the [core principles I follow](https://dev.to/matthewbill/architectural-principles-for-startups-scale-ups-g31).
+I enjoy designing systems and architecture. Check out the [core principles I follow](https://dev.to/matthewbill/architectural-principles-for-startups-scale-ups-g31) whenever joining a startup/scaleup.
 
 ## 🚀 Projects
 
