@@ -48,7 +48,7 @@ Some of the current projects I am working on:
 
 ### Hue Code
 
-[Hue Code](https://marketplace.visualstudio.com/items?itemName=matthewbill.hue-code)A vscode plugin which will make your Hue smart lights come to life as you code! 
+[Hue Code](https://marketplace.visualstudio.com/items?itemName=matthewbill.hue-code) is a vscode plugin which will make your Hue smart lights come to life as you code! 
 
 ## 💬 Contact Me
 
