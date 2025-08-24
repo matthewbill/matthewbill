@@ -30,8 +30,13 @@ Over the years I have worked with a range of different tools and technologies, b
 
 I enjoy designing systems and architecture. Check out the [core principles I follow](https://dev.to/matthewbill/architectural-principles-for-startups-scale-ups-g31).
 
-## Projects
+## 🚀 Projects
+
 Some of the current projects I am working on:
+
+### gloss
+
+[gloss](https://gloss.matthewbill.com/) is a refined design system currently in development inspired by the sleek, polished aesthetic of glossy magazines. Built with the same clean, accessible vibe as shadcn/ui—and using many of its components.
 
 ### StackLens
 
@@ -40,6 +45,10 @@ Some of the current projects I am working on:
 ### Role Radar
 
 [Role Radar](https://roleradar.fe26labs.com/) allows you to define job roles and get alignment on the blend of skills you are looking for.
+
+### Hue Code
+
+[Hue Code](https://marketplace.visualstudio.com/items?itemName=matthewbill.hue-code)A vscode plugin which will make your Hue smart lights come to life as you code! 
 
 ## 💬 Contact Me
 
