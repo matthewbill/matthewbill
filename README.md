@@ -15,6 +15,7 @@ I am a [Technology Leader](https://medium.com/@matthewdbill/the-four-pillars-of-
   - Full-stack web development (hobby projects).
   - Tinkering with my [Homelab](HOMELAB.md).
   - Prompt engineering and gen AI.
+  - Open Source Intelligence (OSINT)
   - Playing tabletop roleplaying games. Fun Fact: I have been running D&D games for nearly 20 years now!
   - Terraforming my garden.
   - And learning all about finance, stocks, and crypto.
